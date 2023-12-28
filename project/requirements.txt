@@ -1,0 +1,12 @@
+first need imports following package:
+    1.import sys
+    2.import csv
+    3.from tabulate import tabulate
+    4.from pyfiglet import Figlet
+    5.import cowsay
+Second:
+    needs to add instruction in terminal: pip install cowsay
+    #which means install the package (cowsay)
+Third:
+    check the csv file is in the project folder(menu_beverages.csv and menu_foods.csv)
+    #which used in project
