@@ -1,6 +1,8 @@
 # Harvard CS50 Python 2022
 - [Course link](https://cs50.harvard.edu/python/2022/)
 
+![Certificate](CS50P.png)
+
 This repository contains the assignments and projects completed during the Harvard CS50P (Introduction to Programming with Python) course in 2022. The repository is organized by week, with each week's work stored in a separate folder.
 
 ### Main Function Points
